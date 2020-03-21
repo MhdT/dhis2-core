@@ -106,6 +106,7 @@
           </systemProperties>
           <webAppConfig>
             <contextPath>/</contextPath>
+			<allowDuplicateFragmentNames>true</allowDuplicateFragmentNames>
           </webAppConfig>
         </configuration>
       </plugin>
